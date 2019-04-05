@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\bin\Debug\NumberMemory.exe.config
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\bin\Debug\NumberMemory.exe
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\bin\Debug\NumberMemory.pdb
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\obj\Debug\NumberMemory.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\obj\Debug\NumberMemory.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\obj\Debug\NumberMemory.exe
+C:\Users\Danny\source\repos\NumberMemory\NumberMemory\obj\Debug\NumberMemory.pdb
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\bin\Debug\NumberMemory.exe.config
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\bin\Debug\NumberMemory.exe
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\bin\Debug\NumberMemory.pdb
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\obj\Debug\NumberMemory.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\obj\Debug\NumberMemory.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\obj\Debug\NumberMemory.exe
+C:\Users\Danny\Desktop\FilterData-master\NumberMemory\obj\Debug\NumberMemory.pdb
